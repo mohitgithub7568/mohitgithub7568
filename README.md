@@ -1,4 +1,8 @@
 # Hi 👋, I'm Mohit Soni
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
 🎓 **B.Tech (Information Technology)** at **IIIT Una**
 💻 **Full-Stack Web Developer (MERN Stack)**
