@@ -1,68 +1,86 @@
 # Hi 👋, I'm Mohit Soni
 
-🎓 B.Tech Information Technology Student at **IIIT Una**
-💻 Passionate about **Web Development, DSA, and AI-based Projects**
-🚀 Love building real-world, problem-solving applications
+🎓 **B.Tech (Information Technology)** at **IIIT Una**
+💻 **Full-Stack Web Developer (MERN Stack)**
+🚀 Passionate about building scalable, real-world web platforms
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🔹 Strong interest in **Data Structures & Algorithms (C++)**
-* 🔹 Frontend experience with **React & JavaScript**
-* 🔹 Exploring **AI & Machine Learning** through practical projects
-* 🔹 Focused on writing **clean, understandable code**
+* 🔹 Strong foundation in **Data Structures, OOPs, DBMS, OS & CN**
+* 🔹 Experienced in **building full-stack applications from scratch**
+* 🔹 Worked on **Healthcare, Job Portal, and Social Networking platforms**
+* 🔹 Currently working on **DevTinder – a developer networking platform**
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-* **Languages:** C++, JavaScript
-* **Frontend:** React.js, HTML, CSS
-* **Core CS:** DSA, OOPs
-* **AI/ML Tools:** OpenCV, MediaPipe (Basics)
-* **Tools:** Git, GitHub, VS Code
+* **Languages:** C, C++, JavaScript, HTML, CSS, SQL
+* **Frontend:** React.js, Redux, Tailwind CSS, Bootstrap
+* **Backend:** Node.js, Express.js
+* **Databases:** MongoDB, MySQL
+* **Tools:** Git, GitHub, Postman, VS Code
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Major Projects
 
-* 🔹 **FlipEarn** – Secure marketplace for buying & selling social media accounts
-* 🔹 **AI Virtual Painter & Cursor Controller** – Gesture-based drawing and mouse control
-* 🔹 **Sign Language Interpreter** – AI-based gesture to text/audio system
+### 🏥 MedOptima – Online Doctor Consultation Platform
 
-*(More projects coming soon...)*
+**Tech:** React.js, Node.js, Express.js, MongoDB, Socket.io, JWT
+🔹 Full-stack telemedicine platform enabling **real-time doctor–patient chat**
+🔹 Secure **JWT-based authentication** with REST APIs
+🔹 Integrated **real-time chat & prescription uploads** using Socket.io
+🔹 Responsive dashboards built with React routing
+
+🔗 GitHub: [https://github.com/mohitgithub7568/Med-Optima](https://github.com/mohitgithub7568/Med-Optima)
+🌐 Live: [https://med-optima-7jr1.vercel.app](https://med-optima-7jr1.vercel.app)
+
+---
+
+### 💼 Solvio – Job Portal Platform
+
+**Tech:** React.js, Node.js, Express.js, MongoDB, JWT, Tailwind CSS, Cloudinary
+🔹 MERN-based job portal for **job seekers & recruiters**
+🔹 Dual authentication system with role-based access
+🔹 Job posting, application tracking & resume uploads
+🔹 Clean, responsive UI with search & filters
+
+🔗 GitHub: [https://github.com/mohitgithub7568/Solvio-main](https://github.com/mohitgithub7568/Solvio-main)
+
+---
+
+### 🤝 DevTinder – Developers Networking Platform *(In Progress)*
+
+🔹 Platform to **connect developers**, similar to a social networking system
+🔹 Focus on profiles, matching, and collaboration
+🔹 Currently working on **architecture & core features**
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitgithub7568\&show_icons=true\&theme=default)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitgithub7568\&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitgithub7568\&layout=compact)
+
+---
+
+## 🏆 Achievements
+
+* ⭐ Solved **300+ problems** on LeetCode & GeeksforGeeks
+* 🏅 **96 Percentile** in JEE Main 2023 | JEE Advanced Qualified
+* 🥈 2nd Rank – **Ad-War-Tise Competition (IIIT Una)**
+* 🎓 Campus Ambassador at **Unstop**
 
 ---
 
 ## 📫 Connect With Me
 
 * GitHub: [https://github.com/mohitgithub7568](https://github.com/mohitgithub7568)
+* Email: [work.mohitsoni7@gmail.com](mailto:work.mohitsoni7@gmail.com)
 
 ---
 
-⭐ *“Consistency beats talent when talent doesn’t work consistently.”*
-## Hi there 👋
-
-<!--
-**mohitgithub7568/mohitgithub7568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *“I believe in learning by building and improving one project at a time.”*
