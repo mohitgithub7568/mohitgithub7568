@@ -53,6 +53,7 @@
 🔹 Clean, responsive UI with search & filters
 
 🔗 GitHub: [https://github.com/mohitgithub7568/Solvio-main](https://github.com/mohitgithub7568/Solvio-main)
+🌐 Live: [https://med-optima-7jr1.vercel.app](https://solvio-main-ms.vercel.app/)
 
 ---
 
