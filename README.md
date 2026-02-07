@@ -9,13 +9,12 @@
 🚀 Passionate about building scalable, real-world web platforms
 
 ---
-
 ## 👨‍💻 About Me
 
-* 🔹 Strong foundation in **Data Structures, OOPs, DBMS, OS & CN**
-* 🔹 Experienced in **building full-stack applications from scratch**
-* 🔹 Worked on **Healthcare, Job Portal, and Social Networking platforms**
-* 🔹 Currently working on **DevTinder – a developer networking platform**
+* 🔹 Strong foundation in **DSA, OOPs, DBMS, OS & CN**
+* 🔹 Skilled in **React.js frontend development** with responsive, reusable UI components
+* 🔹 Currently building **DevTinder**, focusing on modern React patterns and clean UI
+
 
 ---
 
