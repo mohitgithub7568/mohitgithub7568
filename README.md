@@ -9,12 +9,12 @@
 🚀 Passionate about building scalable, real-world web platforms
 
 ---
+
 ## 👨‍💻 About Me
 
 * 🔹 Strong foundation in **DSA, OOPs, DBMS, OS & CN**
 * 🔹 Skilled in **React.js frontend development** with responsive, reusable UI components
 * 🔹 Currently building **DevTinder**, focusing on modern React patterns and clean UI
-
 
 ---
 
@@ -30,9 +30,26 @@
 
 ## 🚀 Major Projects
 
+### 🏢 Talent Portal – Enterprise Talent Management Platform *(Internship Project)*
+
+**Tech:** React.js, Vite, Zustand, Tailwind CSS, shadcn/ui, Node.js, Express.js, MongoDB, Socket.IO, JWT, Electron, Google Gemini, OpenAI, Firebase
+
+🔹 **Production-grade enterprise platform** built as an internal system for managing talent onboarding, task workflows, compliance tracking, and operational communication — deployed in a real-world German tech company (ModelSuite)
+
+🔹 **Gamified XP & Level System** with 20 progression levels, streak tracking, and badge rewards — driving talent engagement through real-time XP updates and leaderboard dynamics
+
+🔹 **AI-Powered Feedback & Workflows** integrated using Google Gemini and OpenAI via Vercel AI SDK — enabling smart task feedback, automated reporting, and intelligent admin tooling with streaming responses
+
+🔹 **Role-Based Access Control (RBAC)** with a granular two-level permission system (`module.feature`), dual JWT authentication (access + refresh tokens), and multi-role admin hierarchy including super-admin and custom role configurations
+
+🔹 **Multi-Platform Deployment** across Web (React + Vite) and Desktop (Electron with auto-updater for Windows/Mac/Linux), with CI/CD pipelines via GitHub Actions, Docker containerization, and Firebase push notifications for cross-device alerts
+
+---
+
 ### 🏥 MedOptima – Online Doctor Consultation Platform
 
 **Tech:** React.js, Node.js, Express.js, MongoDB, Socket.io, JWT
+
 🔹 Full-stack telemedicine platform enabling **real-time doctor–patient chat**
 🔹 Secure **JWT-based authentication** with REST APIs
 🔹 Integrated **real-time chat & prescription uploads** using Socket.io
@@ -46,6 +63,7 @@
 ### 💼 Solvio – Job Portal Platform
 
 **Tech:** React.js, Node.js, Express.js, MongoDB, JWT, Tailwind CSS, Cloudinary
+
 🔹 MERN-based job portal for **job seekers & recruiters**
 🔹 Dual authentication system with role-based access
 🔹 Job posting, application tracking & resume uploads
@@ -87,4 +105,4 @@
 
 ---
 
-⭐ *“I believe in learning by building and improving one project at a time.”*
+⭐ *"I believe in learning by building and improving one project at a time."*
