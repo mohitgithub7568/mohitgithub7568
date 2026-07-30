@@ -1,108 +1,199 @@
-# Hi 👋, I'm Mohit Soni
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
-🎓 **B.Tech (Information Technology)** at **IIIT Una**
-💻 **Full-Stack Web Developer (MERN Stack)**
-🚀 Passionate about building scalable, real-world web platforms
+<!-- ============================= -->
+<!--        MOHIT SONI README      -->
+<!-- ============================= -->
 
----
+<h1 align="center">Hi 👋, I'm Mohit Soni</h1>
+<h3 align="center">Full Stack Developer • AI Engineer • React • FastAPI • LangGraph</h3>
 
-## 👨‍💻 About Me
+<p align="center">
+  I build production-ready web applications, AI-powered products, and scalable full-stack systems with clean architecture and a strong focus on user experience.
+</p>
 
-* 🔹 Strong foundation in **DSA, OOPs, DBMS, OS & CN**
-* 🔹 Skilled in **React.js frontend development** with responsive, reusable UI components
-* 🔹 Currently building **DevTinder**, focusing on modern React patterns and clean UI
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI+Application+Developer;React+%7C+Node.js+%7C+FastAPI;LangGraph+%7C+RAG+%7C+OpenAI+%7C+Gemini;Building+Production-Ready+Applications" alt="Typing SVG" />
+</p>
 
----
-
-## 🛠️ Tech Stack
-
-* **Languages:** C, C++, JavaScript, HTML, CSS, SQL
-* **Frontend:** React.js, Redux, Tailwind CSS, Bootstrap
-* **Backend:** Node.js, Express.js
-* **Databases:** MongoDB, MySQL
-* **Tools:** Git, GitHub, Postman, VS Code
 
 ---
 
-## 🚀 Major Projects
+## About Me
 
-### 🏢 Talent Portal – Enterprise Talent Management Platform *(Internship Project)*
-
-**Tech:** React.js, Vite, Zustand, Tailwind CSS, shadcn/ui, Node.js, Express.js, MongoDB, Socket.IO, JWT, Electron, Google Gemini, OpenAI, Firebase
-
-🔹 **Production-grade enterprise platform** built as an internal system for managing talent onboarding, task workflows, compliance tracking, and operational communication — deployed in a real-world German tech company (ModelSuite)
-
-🔹 **Gamified XP & Level System** with 20 progression levels, streak tracking, and badge rewards — driving talent engagement through real-time XP updates and leaderboard dynamics
-
-🔹 **AI-Powered Feedback & Workflows** integrated using Google Gemini and OpenAI via Vercel AI SDK — enabling smart task feedback, automated reporting, and intelligent admin tooling with streaming responses
-
-🔹 **Role-Based Access Control (RBAC)** with a granular two-level permission system (`module.feature`), dual JWT authentication (access + refresh tokens), and multi-role admin hierarchy including super-admin and custom role configurations
-
-🔹 **Multi-Platform Deployment** across Web (React + Vite) and Desktop (Electron with auto-updater for Windows/Mac/Linux), with CI/CD pipelines via GitHub Actions, Docker containerization, and Firebase push notifications for cross-device alerts
+- 🎓 B.Tech in Information Technology at **IIIT Una**
+- 💼 **Full Stack Developer Intern** at **ModelSuite.ai (Germany)** *(Feb 2026 – May 2026)*
+- 🤖 Focused on building AI-powered and production-grade web applications
+- 🧠 Strong foundation in **DSA, OOP, DBMS, Operating Systems, and Computer Networks**
+- 🚀 Currently building practical systems with **React, Node.js, FastAPI, LangGraph, RAG, MongoDB, and LLM APIs**
+- 🎯 Interested in scalable architecture, clean UI, real-time systems, and intelligent workflows
 
 ---
 
-### 🏥 MedOptima – Online Doctor Consultation Platform
+## Tech Stack
 
-**Tech:** React.js, Node.js, Express.js, MongoDB, Socket.io, JWT
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css,sql" alt="Languages" />
+</p>
 
-🔹 Full-stack telemedicine platform enabling **real-time doctor–patient chat**
-🔹 Secure **JWT-based authentication** with REST APIs
-🔹 Integrated **real-time chat & prescription uploads** using Socket.io
-🔹 Responsive dashboards built with React routing
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vite" alt="Frontend" />
+</p>
 
-🔗 GitHub: [https://github.com/mohitgithub7568/Med-Optima](https://github.com/mohitgithub7568/Med-Optima)
-🌐 Live: [https://med-optima-7jr1.vercel.app](https://med-optima-7jr1.vercel.app)
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend" />
+</p>
 
----
+### Databases & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws" alt="Databases and Cloud" />
+</p>
 
-### 💼 Solvio – Job Portal Platform
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools" />
+</p>
 
-**Tech:** React.js, Node.js, Express.js, MongoDB, JWT, Tailwind CSS, Cloudinary
-
-🔹 MERN-based job portal for **job seekers & recruiters**
-🔹 Dual authentication system with role-based access
-🔹 Job posting, application tracking & resume uploads
-🔹 Clean, responsive UI with search & filters
-
-🔗 GitHub: [https://github.com/mohitgithub7568/Solvio-main](https://github.com/mohitgithub7568/Solvio-main)
-🌐 Live: [https://solvio-main-ms.vercel.app/](https://solvio-main-ms.vercel.app/)
-
----
-
-### 🤝 DevTinder – Developers Networking Platform *(In Progress)*
-
-🔹 Platform to **connect developers**, similar to a social networking system
-🔹 Focus on profiles, matching, and collaboration
-🔹 Currently working on **architecture & core features**
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitgithub7568\&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitgithub7568\&layout=compact)
+### AI / LLM Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge&logo=vectorlogo.zone&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
+  <img src="https://img.shields.io/badge/MCP-1F2937?style=for-the-badge&logo=protocols.io&logoColor=white" alt="MCP" />
+</p>
 
 ---
 
-## 🏆 Achievements
+## Professional Experience
 
-* ⭐ Solved **300+ problems** on LeetCode & GeeksforGeeks
-* 🏅 **96 Percentile** in JEE Main 2023 | JEE Advanced Qualified
-* 🥈 2nd Rank – **Ad-War-Tise Competition (IIIT Una)**
-* 🎓 Campus Ambassador at **Unstop**
+### Full Stack Developer Intern — ModelSuite.ai  
+**Feb 2026 – May 2026**
+
+Germany-based SaaS product company building an internal operating system for creator and model agencies.
+
+**Highlights**
+- Built production-grade React features with clean, reusable architecture
+- Worked on real-time collaboration and communication using **Socket.IO**
+- Implemented role-based access control and permission-driven workflows
+- Contributed to AI-powered features using **OpenAI** and **Gemini**
+- Developed **Voice-to-Text** functionality using Web Speech API
+- Built pagination systems across multiple enterprise modules
+- Contributed to gamification with **XP, levels, streaks, and leaderboard mechanics**
+- Fixed production issues and improved frontend/backend stability
 
 ---
 
-## 📫 Connect With Me
+## Featured Projects
 
-* GitHub: [https://github.com/mohitgithub7568](https://github.com/mohitgithub7568)
-* Email: [work.mohitsoni7@gmail.com](mailto:work.mohitsoni7@gmail.com)
+### CareerLens AI — Multi-Agent Career Coach
+**Live:** https://careerlens-ai-nine.vercel.app  
+**GitHub:** https://github.com/mohitgithub7568/Careerlens_AI  
+
+**Tech:** React • FastAPI • LangGraph • Node.js • MongoDB • OpenAI • Whisper
+
+- Built the full React frontend from scratch with a polished, candidate-focused UI
+- Created resume upload, live analysis, and voice-first interview workflows
+- Integrated speech-to-text and text-to-speech for mock interviews
+- Designed a multi-agent AI backend using **LangGraph** and **FastAPI**
+- Built a secure auth and persistence layer with **Node.js, Express, MongoDB, JWT**
+- Deployed the full product end-to-end on **Vercel** and **Render**
 
 ---
 
-⭐ *"I believe in learning by building and improving one project at a time."*
+### Talent Portal — Enterprise Talent Management Platform
+**Internship Project**
+
+**Tech:** React • Vite • Zustand • Tailwind CSS • shadcn/ui • Node.js • Express.js • MongoDB • Socket.IO • JWT • Electron • OpenAI • Gemini • Firebase
+
+- Built a production-grade internal platform for managing talent onboarding, task workflows, and communication
+- Implemented a **tag-based task management system** with real-time filtering
+- Delivered **voice-to-text** support for live chat using Web Speech APIs
+- Added reusable pagination across major enterprise modules
+- Developed real-time dashboards with live metrics and visual feedback
+- Built gamification features including XP progression, streaks, badges, and leaderboards
+- Supported cross-platform deployment through **Web + Electron**
+- Integrated AI workflows for feedback, reporting, and admin assistance
+
+---
+
+### XpressLine — Delivery & Booking Platform
+**GitHub:** https://github.com/mohitgithub7568/Xpress-line  
+
+**Tech:** React • Redux Toolkit • Mapbox GL JS • Node.js • Stripe • Twilio
+
+- Built an interactive map-based booking flow with live pickup/drop selection
+- Implemented route rendering and real-time distance/cost calculations
+- Designed a multi-step checkout experience with Redux state persistence
+- Integrated secure payment flow using **Stripe Checkout**
+- Added Google OAuth, Twilio OTP verification, and transactional emails
+- Built a fully responsive mobile-first UI using Tailwind CSS
+
+---
+
+### MedOptima — Online Doctor Consultation Platform
+**Live:** https://med-optima-7jr1.vercel.app  
+**GitHub:** https://github.com/mohitgithub7568/Med-Optima  
+
+**Tech:** React • Node.js • Express.js • MongoDB • Socket.IO • JWT
+
+- Built a telemedicine platform for doctor–patient consultations
+- Implemented secure JWT-based authentication
+- Added real-time chat with **Socket.IO**
+- Enabled prescription uploads and medical record management
+- Created responsive dashboards for both patients and doctors
+
+---
+
+### Solvio — Job Portal Platform
+**Live:** https://solvio-main-ms.vercel.app/  
+**GitHub:** https://github.com/mohitgithub7568/Solvio-main  
+
+**Tech:** React • Node.js • Express.js • MongoDB • JWT • Tailwind CSS • Cloudinary
+
+- Developed a dual-sided job portal for candidates and recruiters
+- Built secure authentication and role-based access flows
+- Implemented job posting, application tracking, and resume uploads
+- Designed a modern, responsive UI with search and filtering
+- Integrated Cloudinary for media and document handling
+
+
+
+---
+
+## Core Strengths
+
+- Full-stack application development
+- AI-integrated product engineering
+- Real-time systems and collaboration features
+- Production-focused frontend architecture
+- REST API design and backend integration
+- Role-based access control
+- Scalable MongoDB schema design
+- Clean UI implementation and reusable components
+
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://github.com/mohitgithub7568">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/mohitsoni75">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohit.work.soni@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile.</b><br/>
+  <i>Building impactful software with clean code, scalable systems, and modern AI.</i>
+</p>
