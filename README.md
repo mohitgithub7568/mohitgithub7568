@@ -25,6 +25,7 @@
 - 🧠 Strong foundation in **DSA, OOP, DBMS, Operating Systems, and Computer Networks**
 - 🚀 Currently building practical systems with **React, Node.js, FastAPI, LangGraph, RAG, MongoDB, and LLM APIs**
 - 🎯 Interested in scalable architecture, clean UI, real-time systems, and intelligent workflows
+- My porfolio - https://capable-nonogon-928675.framer.app
 
 ---
 
