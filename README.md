@@ -1,19 +1,17 @@
-
 <!-- ============================= -->
 <!--        MOHIT SONI README      -->
 <!-- ============================= -->
 
 <h1 align="center">Hi 👋, I'm Mohit Soni</h1>
-<h3 align="center">Full Stack Developer • AI Engineer • React • FastAPI • LangGraph</h3>
+<h3 align="center">Full Stack Developer • Data Engineering • React • FastAPI • Kafka</h3>
 
 <p align="center">
-  I build production-ready web applications, AI-powered products, and scalable full-stack systems with clean architecture and a strong focus on user experience.
+  I build production-ready web applications and data pipelines, with a growing focus on backend systems, real-time data, and scalable architecture.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI+Application+Developer;React+%7C+Node.js+%7C+FastAPI;LangGraph+%7C+RAG+%7C+OpenAI+%7C+Gemini;Building+Production-Ready+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Data+Engineering+Enthusiast;React+%7C+Node.js+%7C+FastAPI;PostgreSQL+%7C+Kafka+%7C+Spark;Building+Production-Ready+Systems" alt="Typing SVG" />
 </p>
-
 
 ---
 
@@ -21,160 +19,79 @@
 
 - 🎓 B.Tech in Information Technology at **IIIT Una**
 - 💼 **Full Stack Developer Intern** at **ModelSuite.ai (Germany)** *(Feb 2026 – May 2026)*
-- 🤖 Focused on building AI-powered and production-grade web applications
 - 🧠 Strong foundation in **DSA, OOP, DBMS, Operating Systems, and Computer Networks**
-- 🚀 Currently building practical systems with **React, Node.js, FastAPI, LangGraph, RAG, MongoDB, and LLM APIs**
-- 🎯 Interested in scalable architecture, clean UI, real-time systems, and intelligent workflows
-- My porfolio - https://capable-nonogon-928675.framer.app
+- 🚀 Currently building with **React, Node.js, FastAPI, PostgreSQL, Kafka, and Pandas**
+- 🎯 Interested in scalable backend architecture, data pipelines, and real-time systems
+- Portfolio: https://capable-nonogon-928675.framer.app
 
 ---
 
 ## Tech Stack
 
-### Languages
+**Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css,sql" alt="Languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### Frontend
+**Data Engineering & Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vite" alt="Frontend" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### Backend
+**Frontend & Full Stack**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-### Databases & Cloud
+**Databases & Cloud**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws" alt="Databases and Cloud" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### Tools
+**Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools" />
-</p>
-
-### AI / LLM Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge&logo=vectorlogo.zone&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
-  <img src="https://img.shields.io/badge/MCP-1F2937?style=for-the-badge&logo=protocols.io&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
 ## Professional Experience
 
-### Full Stack Developer Intern — ModelSuite.ai  
+### Full Stack Developer Intern — ModelSuite.ai
 **Feb 2026 – May 2026**
 
 Germany-based SaaS product company building an internal operating system for creator and model agencies.
 
 **Highlights**
-- Built production-grade React features with clean, reusable architecture
-- Worked on real-time collaboration and communication using **Socket.IO**
-- Implemented role-based access control and permission-driven workflows
-- Contributed to AI-powered features using **OpenAI** and **Gemini**
-- Developed **Voice-to-Text** functionality using Web Speech API
-- Built pagination systems across multiple enterprise modules
-- Contributed to gamification with **XP, levels, streaks, and leaderboard mechanics**
-- Fixed production issues and improved frontend/backend stability
-
----
-
-## Featured Projects
-
-### CareerLens AI — Multi-Agent Career Coach
-**Live:** https://careerlens-ai-nine.vercel.app  
-**GitHub:** https://github.com/mohitgithub7568/Careerlens_AI  
-
-**Tech:** React • FastAPI • LangGraph • Node.js • MongoDB • OpenAI • Whisper
-
-- Built the full React frontend from scratch with a polished, candidate-focused UI
-- Created resume upload, live analysis, and voice-first interview workflows
-- Integrated speech-to-text and text-to-speech for mock interviews
-- Designed a multi-agent AI backend using **LangGraph** and **FastAPI**
-- Built a secure auth and persistence layer with **Node.js, Express, MongoDB, JWT**
-- Deployed the full product end-to-end on **Vercel** and **Render**
-
----
-
-### Talent Portal — Enterprise Talent Management Platform
-**Internship Project**
-
-**Tech:** React • Vite • Zustand • Tailwind CSS • shadcn/ui • Node.js • Express.js • MongoDB • Socket.IO • JWT • Electron • OpenAI • Gemini • Firebase
-
-- Built a production-grade internal platform for managing talent onboarding, task workflows, and communication
-- Implemented a **tag-based task management system** with real-time filtering
-- Delivered **voice-to-text** support for live chat using Web Speech APIs
-- Added reusable pagination across major enterprise modules
-- Developed real-time dashboards with live metrics and visual feedback
-- Built gamification features including XP progression, streaks, badges, and leaderboards
-- Supported cross-platform deployment through **Web + Electron**
-- Integrated AI workflows for feedback, reporting, and admin assistance
-
----
-
-### XpressLine — Delivery & Booking Platform
-**GitHub:** https://github.com/mohitgithub7568/Xpress-line  
-
-**Tech:** React • Redux Toolkit • Mapbox GL JS • Node.js • Stripe • Twilio
-
-- Built an interactive map-based booking flow with live pickup/drop selection
-- Implemented route rendering and real-time distance/cost calculations
-- Designed a multi-step checkout experience with Redux state persistence
-- Integrated secure payment flow using **Stripe Checkout**
-- Added Google OAuth, Twilio OTP verification, and transactional emails
-- Built a fully responsive mobile-first UI using Tailwind CSS
-
----
-
-### MedOptima — Online Doctor Consultation Platform
-**Live:** https://med-optima-7jr1.vercel.app  
-**GitHub:** https://github.com/mohitgithub7568/Med-Optima  
-
-**Tech:** React • Node.js • Express.js • MongoDB • Socket.IO • JWT
-
-- Built a telemedicine platform for doctor–patient consultations
-- Implemented secure JWT-based authentication
-- Added real-time chat with **Socket.IO**
-- Enabled prescription uploads and medical record management
-- Created responsive dashboards for both patients and doctors
-
----
-
-### Solvio — Job Portal Platform
-**Live:** https://solvio-main-ms.vercel.app/  
-**GitHub:** https://github.com/mohitgithub7568/Solvio-main  
-
-**Tech:** React • Node.js • Express.js • MongoDB • JWT • Tailwind CSS • Cloudinary
-
-- Developed a dual-sided job portal for candidates and recruiters
-- Built secure authentication and role-based access flows
-- Implemented job posting, application tracking, and resume uploads
-- Designed a modern, responsive UI with search and filtering
-- Integrated Cloudinary for media and document handling
-
-
+- Optimized MongoDB schemas and indexing, cutting query response times by ~40%
+- Built a reusable pagination system adopted across 15+ enterprise modules
+- Built and secured REST APIs with JWT auth, integrating OpenAI and Gemini for AI-assisted features
+- Worked on real-time systems using Socket.IO and AWS EC2 deployments
 
 ---
 
 ## Core Strengths
 
 - Full-stack application development
-- AI-integrated product engineering
-- Real-time systems and collaboration features
-- Production-focused frontend architecture
+- Data pipeline and ETL design
 - REST API design and backend integration
-- Role-based access control
-- Scalable MongoDB schema design
-- Clean UI implementation and reusable components
-
+- Real-time, event-driven systems
+- Scalable database schema design
 
 ---
 
@@ -196,5 +113,5 @@ Germany-based SaaS product company building an internal operating system for cre
 
 <p align="center">
   <b>Thanks for visiting my profile.</b><br/>
-  <i>Building impactful software with clean code, scalable systems, and modern AI.</i>
+  <i>Building reliable software and data systems, one commit at a time.</i>
 </p>
